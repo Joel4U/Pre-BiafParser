@@ -11,3 +11,4 @@
 | ---| ---| ---| ---| ---|
 | chinese-roberta-wwm-ext-large  | Deep Biaffine | CTB  |  96.60  | 95.21
 | ---  | Deep Biaffine | CTB  |  89.30 | 88.23
+| Bert(Fixed-8)  | Deep Biaffine | CTB  |  92.96 | 91.80
