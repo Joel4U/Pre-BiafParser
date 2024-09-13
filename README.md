@@ -12,3 +12,6 @@
 | chinese-roberta-wwm-ext-large  | Deep Biaffine | CTB  |  90.66  | 87.07
 | ---  | Deep Biaffine | CTB  |  89.30 | 88.23
 | Bert(Fixed-8)  | Deep Biaffine | CTB  |  92.96 | 91.80
+
+# Bert(Fixed-8)  Related Repo
+https://github.com/LindgeW/BiaffineParser
