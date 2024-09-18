@@ -21,4 +21,5 @@ Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
 roberta-large(supar)  https://github.com/yzhangcs/parser
 
 # File: giga.100.txt
+https://github.com/yzhangcs/parser/releases/download/v1.1.0/giga.100.zip
 
