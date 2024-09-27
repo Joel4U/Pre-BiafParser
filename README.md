@@ -18,6 +18,7 @@
 | electra-base(Our)  | Deep Biaffine | CTB  |  90.66  | 87.07
 
 Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
+
 Bert  learing-rate： 5e-5， batch_size: 48, epoch: 100
 #  Related Repo
 Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
