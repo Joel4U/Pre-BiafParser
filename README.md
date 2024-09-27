@@ -9,14 +9,16 @@
 | ---  | Deep Biaffine | PTB  |  95.87 | 94.22	
 | roberta-large(supar)  | Deep Biaffine | PTB  |  97.33  | 95.86
 | roberta-base(Our)  | Deep Biaffine | PTB  |  96.60  | 95.21
+| bert-base-cased(Our)  | Deep Biaffine | PTB  |  96.16  | 94.66
+| bert-large-cased(Our)  | Deep Biaffine | PTB  |  96.--  | 9-.--
 | ---| ---| ---| ---| ---|
 | ---  | Deep Biaffine | CTB  |  89.30 | 88.23
 | Bert(Fixed-8)  | Deep Biaffine | CTB  |  92.96 | 91.80
 | electra-large(supar)  | Deep Biaffine | CTB  |  92.45  | 89.55
 | electra-base(Our)  | Deep Biaffine | CTB  |  90.66  | 87.07
 
-learing-rate： 2e-5， batch_size: 48, epoch: 20
-
+Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
+Bert  learing-rate： 5e-5， batch_size: 48, epoch: 100
 #  Related Repo
 Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
 
