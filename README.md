@@ -16,7 +16,7 @@
 | Bert(Fixed-8)  | Deep Biaffine | CTB-5  |  92.96 | 91.80
 | electra-large(supar)  | Deep Biaffine | CTB-5  |  92.45  | 89.55
 | electra-base(Our)  | Deep Biaffine | CTB-5  |  90.66  | 87.07
-| bert-base-multi(Our)  | Deep Biaffine | CTB-5  |  96.74  | 95.13
+| bert-base-multi(Our)  | Deep Biaffine | CTB-5  |  91.21  | 89.89
 
 Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
 
