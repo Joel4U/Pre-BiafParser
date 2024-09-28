@@ -21,6 +21,7 @@
 Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
 
 Bert EN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 100
+
 Bert CN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 120
 #  Related Repo
 Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
