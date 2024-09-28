@@ -16,11 +16,12 @@
 | Bert(Fixed-8)  | Deep Biaffine | CTB-5  |  92.96 | 91.80
 | electra-large(supar)  | Deep Biaffine | CTB-5  |  92.45  | 89.55
 | electra-base(Our)  | Deep Biaffine | CTB-5  |  90.66  | 87.07
-| bert-base-multi(Our)  | Deep Biaffine | CTB-5  |  91.21  | 89.89
+| bert-base-multi(Our)  | Deep Biaffine | CTB-5  |  91.26  | 89.96
 
 Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
 
-Bert  pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 100
+Bert EN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 100
+Bert CN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 120
 #  Related Repo
 Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
 
