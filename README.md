@@ -10,7 +10,7 @@
 | roberta-large(supar)  | Deep Biaffine | PTB  |  97.33  | 95.86
 | roberta-base(Our)  | Deep Biaffine | PTB  |  96.60  | 95.21
 | bert-base-cased(Our)  | Deep Biaffine | PTB  |  96.74  | 95.13
-| bert-large-cased(Our)  | Deep Biaffine | PTB  |  96.87  | 95.19
+| bert-large-cased(Our)  | Deep Biaffine | PTB  |  96.95  | 95.29
 | ---| ---| ---| ---| ---|
 | ---  | Deep Biaffine | CTB-5  |  89.30 | 88.23
 | Bert(Fixed-8)  | Deep Biaffine | CTB-5  |  92.96 | 91.80
