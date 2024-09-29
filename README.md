@@ -21,6 +21,7 @@
 Roberta learing-rate： 2e-5， batch_size: 48, epoch: 20
 
 Bert Base  EN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 100
+
 Bert Large EN pretr_lr： 1e-5，other_lr: 2e-4, adatrans：3-layers, heads：8, batch_size: 30, epoch: 100
 
 Bert CN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 120
