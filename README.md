@@ -28,6 +28,8 @@ Bert Large EN pretr_lr： 1e-5，other_lr: 2e-4, adatrans：3-layers, heads：8,
 
 Bert CN pretr_lr： 2e-5，other_lr: 5e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 120
 
+Bert Base EN frozen pretr_lr： 0，other_lr: 2e-4, adatrans：3-layers, heads：8, batch_size: 48, epoch: 100  -----------------96.63  | 94.92
+
 #  Related Repo
 Bert(Fixed-8)  https://github.com/LindgeW/BiaffineParser
 
